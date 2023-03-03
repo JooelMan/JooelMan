@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### About me
+- :mortar_board: 2nd year computer science student at Aalto University
+
+- :man_technologist: teaching assistant on 'Databases' course
+
+- 🌱 currently learning full stack development and computer networks
+
 <!--
 **JooelMan/JooelMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +23,7 @@ Here are some ideas to get you started:
 -->
 [style-address]: https://shields.io/badge/style-plastic-green
 
+#### Known languages and tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=style-address&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=style-address&logo=scala&logoColor=white)
