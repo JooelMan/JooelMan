@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=style-address&logo=css3&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=style-address?logo=appveyor&style=plastic&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=style-address&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=style-address&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=style-address&logo=mongodb&logoColor=white)
