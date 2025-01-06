@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### About me
-- :mortar_board: 3rd year computer science student at Aalto University
+- :mortar_board: 4th year computer science student at Aalto University
 
 - :man_technologist: working as a software developer for Polycon
 
-- 🌱 currently learning Information security and ML
+- 🌱 currently learning AI, Deep Learning, Platform Security & Cryptography
 
 <!--
 **JooelMan/JooelMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
