@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 #### Known languages and tools
 
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=style-address&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=style-address&logo=scala&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=style-address&logo=c%2B%2B&logoColor=white)
