@@ -25,17 +25,19 @@ Here are some ideas to get you started:
 
 #### Known languages and tools
 
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=style-address&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=style-address&logo=scala&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=style-address&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style-address&logo=linux&logoColor=black)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=style-address&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=style-address&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=style-address&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=style-address&logo=css3&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style-address&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=style-address?logo=appveyor&style=plastic&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=style-address&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=style-address&logo=mongodb&logoColor=white)
