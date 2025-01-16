@@ -5,7 +5,7 @@
 
 - :man_technologist: working as a software developer for Polycon
 
-- 🌱 currently learning AI, Deep Learning, Platform Security & Cryptography
+- 🌱 currently learning AI, Deep Learning & Platform Security
 
 <!--
 **JooelMan/JooelMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
